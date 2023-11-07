@@ -19,7 +19,7 @@ Visual components and Python
 
 ## Program
 ```
-Name: DEVADARSHAN A S
+DEVELOPED BY : DEVADARSHAN A S
 Reg: 21222211007
 ```
 ```python
